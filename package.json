@@ -1,0 +1,17 @@
+{
+  "name": "samar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shubhankar",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express3-handlebars": "^0.5.2",
+    "nodemon": "^2.0.7",
+    "update": "^0.7.4"
+  }
+}
